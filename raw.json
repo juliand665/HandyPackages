@@ -1,0 +1,9 @@
+{
+	"name": "Handy Packages",
+	"packages": [
+		{ "url": "https://github.com/juliand665/HandyOperators" },
+		{ "url": "https://github.com/juliand665/UserDefault" },
+		{ "url": "https://github.com/juliand665/CGeometry" },
+		{ "url": "https://github.com/juliand665/ArrayBuilder" }
+	]
+}

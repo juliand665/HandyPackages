@@ -1,0 +1,425 @@
+{
+	"formatVersion": "1.0",
+	"generatedAt": "2021-06-27T00:21:22Z",
+	"name": "Handy Packages",
+	"packages": [
+		{
+			"keywords": [],
+			"license": {
+				"name": "MIT",
+				"url": "https://raw.githubusercontent.com/juliand665/HandyOperators/main/LICENSE"
+			},
+			"readmeURL": "https://raw.githubusercontent.com/juliand665/HandyOperators/main/README.md",
+			"summary": "a tiny collection of operators to help clean up your code",
+			"url": "https://github.com/juliand665/HandyOperators",
+			"versions": [
+				{
+					"defaultToolsVersion": "5.1.0",
+					"manifests": {
+						"5.1.0": {
+							"packageName": "HandyOperators",
+							"products": [
+								{
+									"name": "HandyOperators",
+									"targets": [
+										"HandyOperators"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "HandyOperators",
+									"name": "HandyOperators"
+								}
+							],
+							"toolsVersion": "5.1.0"
+						}
+					},
+					"version": "v2.0.1"
+				},
+				{
+					"defaultToolsVersion": "5.1.0",
+					"manifests": {
+						"5.1.0": {
+							"packageName": "HandyOperators",
+							"products": [
+								{
+									"name": "HandyOperators",
+									"targets": [
+										"HandyOperators"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "HandyOperators",
+									"name": "HandyOperators"
+								}
+							],
+							"toolsVersion": "5.1.0"
+						}
+					},
+					"version": "v2.0.0"
+				},
+				{
+					"defaultToolsVersion": "5.1.0",
+					"manifests": {
+						"5.1.0": {
+							"packageName": "HandyOperators",
+							"products": [
+								{
+									"name": "HandyOperators",
+									"targets": [
+										"HandyOperators"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "HandyOperators",
+									"name": "HandyOperators"
+								}
+							],
+							"toolsVersion": "5.1.0"
+						}
+					},
+					"version": "v1.0.0"
+				}
+			]
+		},
+		{
+			"keywords": [
+				"macos",
+				"ios",
+				"swift-package-manager",
+				"userdefaults",
+				"spm",
+				"property-wrapper"
+			],
+			"license": {
+				"name": "MIT",
+				"url": "https://raw.githubusercontent.com/juliand665/UserDefault/main/LICENSE"
+			},
+			"readmeURL": "https://raw.githubusercontent.com/juliand665/UserDefault/main/README.md",
+			"summary": "Swifty User Defaults thanks to Property Wrappers",
+			"url": "https://github.com/juliand665/UserDefault",
+			"versions": [
+				{
+					"defaultToolsVersion": "5.1.0",
+					"manifests": {
+						"5.1.0": {
+							"packageName": "UserDefault",
+							"products": [
+								{
+									"name": "UserDefault",
+									"targets": [
+										"UserDefault"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "UserDefault",
+									"name": "UserDefault"
+								}
+							],
+							"toolsVersion": "5.1.0"
+						}
+					},
+					"version": "v1.0.2"
+				},
+				{
+					"defaultToolsVersion": "5.1.0",
+					"manifests": {
+						"5.1.0": {
+							"packageName": "UserDefault",
+							"products": [
+								{
+									"name": "UserDefault",
+									"targets": [
+										"UserDefault"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "UserDefault",
+									"name": "UserDefault"
+								}
+							],
+							"toolsVersion": "5.1.0"
+						}
+					},
+					"version": "v1.0.1"
+				},
+				{
+					"defaultToolsVersion": "5.1.0",
+					"manifests": {
+						"5.1.0": {
+							"packageName": "UserDefault",
+							"products": [
+								{
+									"name": "UserDefault",
+									"targets": [
+										"UserDefault"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "UserDefault",
+									"name": "UserDefault"
+								}
+							],
+							"toolsVersion": "5.1.0"
+						}
+					},
+					"version": "v1.0.0"
+				},
+				{
+					"defaultToolsVersion": "5.1.0",
+					"manifests": {
+						"5.1.0": {
+							"packageName": "UserDefault",
+							"products": [
+								{
+									"name": "UserDefault",
+									"targets": [
+										"UserDefault"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "UserDefault",
+									"name": "UserDefault"
+								}
+							],
+							"toolsVersion": "5.1.0"
+						}
+					},
+					"version": "v0.0.0"
+				}
+			]
+		},
+		{
+			"keywords": [
+				"macos",
+				"ios",
+				"cgsize",
+				"swift-package-manager",
+				"spm",
+				"coregraphics",
+				"cgpoint",
+				"cgvector"
+			],
+			"license": {
+				"name": "MIT",
+				"url": "https://raw.githubusercontent.com/juliand665/CGeometry/master/LICENSE"
+			},
+			"readmeURL": "https://raw.githubusercontent.com/juliand665/CGeometry/master/README.md",
+			"summary": "Simple Operators for CoreGraphics Geometric Constructs",
+			"url": "https://github.com/juliand665/CGeometry",
+			"versions": [
+				{
+					"defaultToolsVersion": "5.1.0",
+					"manifests": {
+						"5.1.0": {
+							"packageName": "CGeometry",
+							"products": [
+								{
+									"name": "CGeometry",
+									"targets": [
+										"CGeometry"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "CGeometry",
+									"name": "CGeometry"
+								}
+							],
+							"toolsVersion": "5.1.0"
+						}
+					},
+					"version": "v0.3.0"
+				},
+				{
+					"defaultToolsVersion": "5.1.0",
+					"manifests": {
+						"5.1.0": {
+							"packageName": "CGeometry",
+							"products": [
+								{
+									"name": "CGeometry",
+									"targets": [
+										"CGeometry"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "CGeometry",
+									"name": "CGeometry"
+								}
+							],
+							"toolsVersion": "5.1.0"
+						}
+					},
+					"version": "v0.2.0"
+				},
+				{
+					"defaultToolsVersion": "5.1.0",
+					"manifests": {
+						"5.1.0": {
+							"packageName": "CGeometry",
+							"products": [
+								{
+									"name": "CGeometry",
+									"targets": [
+										"CGeometry"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "CGeometry",
+									"name": "CGeometry"
+								}
+							],
+							"toolsVersion": "5.1.0"
+						}
+					},
+					"version": "v0.1.0"
+				}
+			]
+		},
+		{
+			"keywords": [
+				"swift",
+				"package",
+				"array",
+				"swiftpm",
+				"function-builder"
+			],
+			"license": {
+				"name": "MIT",
+				"url": "https://raw.githubusercontent.com/juliand665/ArrayBuilder/main/LICENSE"
+			},
+			"readmeURL": "https://raw.githubusercontent.com/juliand665/ArrayBuilder/main/README.md",
+			"summary": "Easily build arrays with conditional content.",
+			"url": "https://github.com/juliand665/ArrayBuilder",
+			"versions": [
+				{
+					"defaultToolsVersion": "5.3.0",
+					"manifests": {
+						"5.3.0": {
+							"packageName": "ArrayBuilder",
+							"products": [
+								{
+									"name": "ArrayBuilder",
+									"targets": [
+										"ArrayBuilder"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "ArrayBuilder",
+									"name": "ArrayBuilder"
+								}
+							],
+							"toolsVersion": "5.3.0"
+						}
+					},
+					"version": "v1.1.0"
+				},
+				{
+					"defaultToolsVersion": "5.3.0",
+					"manifests": {
+						"5.3.0": {
+							"packageName": "ArrayBuilder",
+							"products": [
+								{
+									"name": "ArrayBuilder",
+									"targets": [
+										"ArrayBuilder"
+									],
+									"type": {
+										"library": [
+											"automatic"
+										]
+									}
+								}
+							],
+							"targets": [
+								{
+									"moduleName": "ArrayBuilder",
+									"name": "ArrayBuilder"
+								}
+							],
+							"toolsVersion": "5.3.0"
+						}
+					},
+					"version": "v1.0.0"
+				}
+			]
+		}
+	]
+}
