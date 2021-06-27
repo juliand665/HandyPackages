@@ -1,5 +1,6 @@
 {
 	"name": "Handy Packages",
+	"overview": "A collection of some handy packages I've made.",
 	"packages": [
 		{ "url": "https://github.com/juliand665/HandyOperators" },
 		{ "url": "https://github.com/juliand665/UserDefault" },

@@ -1,7 +1,8 @@
 {
 	"formatVersion": "1.0",
-	"generatedAt": "2021-06-27T00:21:22Z",
+	"generatedAt": "2021-06-27T00:38:04Z",
 	"name": "Handy Packages",
+	"overview": "A collection of some handy packages I've made.",
 	"packages": [
 		{
 			"keywords": [],
